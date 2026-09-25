@@ -49,7 +49,7 @@ Main tasks included:
 
 ## Excel Dashboard
 
-![Netflix Excel Dashboard](../05_Screenshots/Netflix_Excel_Dashboard.png)
+![Netflix Excel Dashboard](05_Screenshots/Netflix_Excel_Dashboard.png)
 
 ## 2. MySQL — Database & SQL Analysis
 
@@ -89,7 +89,7 @@ The **Content Distribution** visualization can be used to interactively explore 
 
 ## Tableau Dashboard
 
-![Netflix Tableau Dashboard](../05_Screenshots/Netflix_Tableau_Dashboard.png)
+![Netflix Tableau Dashboard](05_Screenshots/Netflix_Tableau_Dashboard.png)
 
 ## Key Insights
 
