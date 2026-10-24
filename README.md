@@ -91,6 +91,25 @@ The **Content Distribution** visualization can be used to interactively explore 
 
 ![Netflix Tableau Dashboard](05_Screenshots/Netflix_Tableau_Dashboard.png)
 
+## Power BI Dashboard
+
+An interactive Netflix Content Analysis dashboard created using Power BI, Power Query, and DAX.
+
+### Key Features
+- 5 KPI cards
+- 6 analytical charts
+- Content Type and Release Year slicers
+- Dynamic filtering
+- Netflix-inspired design
+
+### Dashboard Preview
+
+![Netflix Power BI Dashboard](05_Screenshots/Netflix_PowerBI_Dashboard.png)
+
+### Power BI Project File
+
+[View Power BI Dashboard](07_PowerBI_Analysis/Netflix_Content_Analysis_Dashboard.pbix)
+
 ## Key Insights
 
 - **Movies dominate the catalog**, with 6,131 titles compared with 2,676 TV Shows.
